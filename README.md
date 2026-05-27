@@ -8,7 +8,7 @@ Soy un desarrollador enfocado en el backend, apasionado por la lógica de progra
 - 🔭 Actualmente enfocado en el desarrollo de APIs robustas y escalables con Python.
 - 🌱 Aprendiendo activamente sobre arquitectura de software y optimización de bases de datos.
 - 💬 Pregúntame sobre: Python, FastAPI, PostgreSQL y lógica de programación.
-- 📫 Cómo contactarme: [emilianodelgado2005@gmail.com] (o tu email preferido)
+- 📫 Cómo contactarme: [emidelgadov@outlook.com]
 
 ---
 
@@ -16,7 +16,7 @@ Soy un desarrollador enfocado en el backend, apasionado por la lógica de progra
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,git,linux,postman" />
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,git" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@ Soy un desarrollador enfocado en el backend, apasionado por la lógica de progra
 
 ---
 
-### 🔗 Conectemos
+### 🔗 Redes Sociales
 
 <p align="left">
 <a href="https://www.linkedin.com/in/emiliano-delgado-212b042b5/">
@@ -45,5 +45,3 @@ Soy un desarrollador enfocado en el backend, apasionado por la lógica de progra
 
 ---
 
-### 📊 Mis Estadísticas
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EmiDelgadoV&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
