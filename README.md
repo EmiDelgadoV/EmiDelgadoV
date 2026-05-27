@@ -1,16 +1,49 @@
-## Hi there 👋
+# ¡Hola, soy Emiliano Delgado! 👋
 
-<!--
-**EmiDelgadoV/EmiDelgadoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador enfocado en el backend, apasionado por la lógica de programación, el rendimiento de sistemas y la construcción de APIs eficientes. Siempre en busca de optimizar procesos y aprender nuevas tecnologías.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre mí
+- 🔭 Actualmente enfocado en el desarrollo de APIs robustas y escalables con Python.
+- 🌱 Aprendiendo activamente sobre arquitectura de software y optimización de bases de datos.
+- 💬 Pregúntame sobre: Python, FastAPI, PostgreSQL y lógica de programación.
+- 📫 Cómo contactarme: [emilianodelgado2005@gmail.com] (o tu email preferido)
+
+---
+
+### 🛠 Tecnologías y Herramientas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,docker,git,linux,postman" />
+  </a>
+</p>
+
+---
+
+### 📂 Mis Proyectos Destacados
+
+- [**Lunaria**](https://github.com/EmiDelgadoV/Lunaria): Un proyecto personal, mi primera aplicación de escritorio con python, útil para saber las fases lunares próximas.
+- [**Habitos-API**](https://github.com/EmiDelgadoV/habitos-api): API desarrollada para tracking de habitos y productividad.
+
+---
+
+### 🔗 Conectemos
+
+<p align="left">
+<a href="https://www.linkedin.com/in/emiliano-delgado-212b042b5/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_emiidelgado/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/emii.delgado.54">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+</p>
+
+---
+
+### 📊 Mis Estadísticas
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EmiDelgadoV&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
